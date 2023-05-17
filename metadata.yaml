@@ -1,0 +1,35 @@
+_repo: The-feather-symbol-in-ancient-Hopi-designs_70555
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fewkes, Jesse Walter
+    alias: Fewkes, J. Walter (Jesse Walter)
+    birthdate: 1850
+    deathdate: 1930
+    gutenberg_agent_id: '7741'
+    url: http://www.gutenberg.org/2009/agents/7741
+    wikipedia: https://en.wikipedia.org/wiki/Jesse_Walter_Fewkes
+description: '"From the American Anthropologist, January, 1898."'
+gutenberg_issued: '2023-04-15'
+identifiers:
+  gutenberg: '70555'
+language: en
+pgterms:marc905: 20230112185525fewkes
+pgterms:marc906: '1898'
+pgterms:marc907: US
+production_note: Robert Tonsing and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bJudd & Detweiler, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hopi Indians -- Antiquities'
+- !lcsh 'Hopi Indians -- Religion'
+- !lcsh 'Hopi Indians -- Rites and ceremonies'
+- !lcsh 'Hopi art'
+- !lcsh 'Feathers in art'
+- !lcc 'E011'
+- GITenberg
+title: The feather symbol in ancient Hopi designs
+url: http://www.gutenberg.org/ebooks/70555
