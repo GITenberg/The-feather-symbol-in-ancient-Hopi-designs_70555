@@ -1,5 +1,8 @@
 _repo: The-feather-symbol-in-ancient-Hopi-designs_70555
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70555-h/images/cover.jpg
 creator:
   author:
     agent_name: Fewkes, Jesse Walter
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7741
     wikipedia: https://en.wikipedia.org/wiki/Jesse_Walter_Fewkes
 description: '"From the American Anthropologist, January, 1898."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70555#The-feather-symbol-in-ancient-Hopi-designs
 gutenberg_issued: '2023-04-15'
 identifiers:
   gutenberg: '70555'
